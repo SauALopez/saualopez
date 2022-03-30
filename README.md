@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **saul.a.lopez.h@gmail.com**
 
-## Connect with me
-<p align="left">
+<h2 align="right">Social</h2> 
+<p align="right">
 <a href="https://twitter.com/saulopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saulopez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saualopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saualopez" height="30" width="40" /></a>
 </p>
@@ -22,7 +22,7 @@
 
 <h2 align="center"> Languages and Tools </h2> 
 
-<table  border="0">
+<table align="center" border="0">
     <tr>
         <td align="center">
             <h3>Web Frameworks</h3>
@@ -90,7 +90,7 @@
             <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60"/>
             </a>
-        <td>
+        </td>
         <td align="center">
             <h3>Cloud Services</h3>
             <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -105,7 +105,7 @@
             <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
             </a>
-        <td>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -116,7 +116,7 @@
             <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
             </a>
-        <td>
+        </td>
         <td align="center">
             <h3>Other Tools</h3>
             <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -134,7 +134,7 @@
             <a href="https://postman.com" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
             </a>
-        <td>
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -152,7 +152,7 @@
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
             </a>      
-        <td>
+        </td>
         <td align="center">
             <h3>Learning</h3>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -164,7 +164,7 @@
             <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
             </a>
-        <td>
+        </td>
     </tr>
 </table>
 
