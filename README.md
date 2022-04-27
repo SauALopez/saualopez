@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Automation Tools**
 
-- 👨‍💻 All of my projects are available at [https://saualopez.github.io](https://saualopez.github.io)
-
 - 💬 Ask me about **Electronics, Django, Flask, Python**
 
 - 📫 How to reach me **saul.a.lopez.h@gmail.com**
