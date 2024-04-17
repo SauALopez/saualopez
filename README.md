@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saul Alexander</h1>
 <h3 align="center">A passionate electronics</h3>
 
-- 🔭 I’m currently working on **Django Project**
+- 🔭 I’m currently working on **IoT Projects**
 
-- 🌱 I’m currently learning **React and Automation Tools**
+- 🌱 I’m currently learning **ESP-IDF**
 
-- 💬 Ask me about **Electronics, Django, Flask, Python**
+- 💬 Ask me about **Electronics, Flask, Python, R, Javascript**
 
 - 📫 How to reach me **saul.a.lopez.h@gmail.com**
 
@@ -153,8 +153,8 @@
         </td>
         <td align="center">
             <h3>Learning</h3>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
+            <a href="https://idf.espressif.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://idf.espressif.com/images/logo-black.svg" alt="nodejs" width="60" height="60"/> 
             </a>
             <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJs" width="60" height="60"/> 
