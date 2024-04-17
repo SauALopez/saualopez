@@ -156,12 +156,6 @@
             <a href="https://idf.espressif.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://idf.espressif.com/images/logo-black.svg" alt="nodejs" width="60" height="60"/> 
             </a>
-            <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="ReactJs" width="60" height="60"/> 
-            </a>
-            <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-            </a>
         </td>
     </tr>
 </table>
