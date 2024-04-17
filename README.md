@@ -11,7 +11,7 @@
 
 <h2 align="right">Social</h2> 
 <p align="right">
-<a href="https://twitter.com/saulopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saulopez" height="30" width="40" /></a>
+<a href="https://twitter.com/SauALopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saulopez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saualopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saualopez" height="30" width="40" /></a>
 </p>
 
